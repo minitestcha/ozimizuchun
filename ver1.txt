@@ -1,3 +1,5 @@
 version 1>ver1.txt
 git commit -m version 1
+git tag -a v0.1.0 -m bu version 1 
+git push origin develop
 echo version
