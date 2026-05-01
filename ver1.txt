@@ -1,0 +1,3 @@
+version 1>ver1.txt
+git commit -m version 1
+echo version
